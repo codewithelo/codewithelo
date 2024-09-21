@@ -1,31 +1,22 @@
-
-<div style="display: flex; justify-content: center; align-items: center;">
-
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-
-<h1 align="center">Hi 👋, I'm Elo</h1>
-   <div >
-      <a href="https://linkedin.com/in/eliasjan-luiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliasjan-luiz" height="20" width="30" /></a>
-      <a href="https://medium.com/luizeliasjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="luizeliasjan" height="20" width="30" /></a>
-      <a href="https://www.youtube.com/c/codewithelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithelo" height="20" width="30" /></a>
-   </div>
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <h1 style="flex: 1; text-align: center;">Hi 👋, I'm Elo</h1>
+    <div>
+        <a href="https://linkedin.com/in/eliasjan-luiz" target="blank" style="margin-right: 10px;">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliasjan-luiz" height="20" width="30" />
+        </a>
+        <a href="https://medium.com/@codewithelo" target="blank" style="margin-right: 10px;">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="luizeliasjan" height="20" width="30" />
+        </a>
+        <a href="https://www.youtube.com/@codewithelo" target="blank" style="margin-right: 10px;">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithelo" height="20" width="30" />
+        </a>
+        <a href="https://codewithelo.com" target="blank" style="margin-right: 10px;">
+            <img src="https://cdn-icons-png.flaticon.com/512/5339/5339155.png" alt="website" height="22" width="22" />
+        </a>
+    </div>
 </div>
 
-   <img class="cat" align="right" src="https://c.tenor.com/gZU3n_9Nv2EAAAAC/tenor.gif" style="max-width: 200px; height: auto; margin-left: 20px;">
-</div>
 
----
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <p style="flex: 1; text-align: center;">
-    🔭 I’m currently working on **DNC.com** <br>
-    🌱 I’m currently learning **Terraform, AWS** <br>
-    👨‍💻 All of my projects are available at <a href="www.eliasdev.com/projects">www.eliasdev.com/projects</a> <br>
-    📝 I regularly write articles on <a href="www.eliasdev.com/papers">www.eliasdev.com/papers</a> <br>
-    📄 Know about my experiences <a href="www.eliasdev.com/experience">www.eliasdev.com/experience</a>
-  </p>
-</div>
 
 #####
 ---
