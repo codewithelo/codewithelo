@@ -22,7 +22,7 @@
     👨‍💻 All of my projects are available on my <a href="www.codewithelo.com/projects">Website</a> <br>
     🌱 I’m currently learning about these <a href="www.codewithelo.com/journey">Topics</a> <br>
     📝 I regularly write articles in <a href="www.codewithelo.com/papers">Medium</a> <br>
-    📄 Would you like to know my experiences ? <a href="www.codewithelo.com/experience"> My Journey</a>
+    📄 See My Data <a href="www.codewithelo.com/experience"> Journey</a>
   </p>
 
   <img class="cat" align="right" src="https://c.tenor.com/gZU3n_9Nv2EAAAAC/tenor.gif" style="max-width: 200px; height: auto; margin-left: 20px; border-radius: 90px ">
