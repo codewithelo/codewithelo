@@ -16,10 +16,20 @@
     </div>
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <p style="flex: 1; text-align: left;">
+    🔭 I’m currently working at  <a href="www.dnc.bi">DNC</a> <br>
+    👨‍💻 All of my projects are available on my <a href="www.codewithelo.com/projects">Website</a> <br>
+    🌱 I’m currently learning about these <a href="www.codewithelo.com/journey">Topics</a> <br>
+    📝 I regularly write articles in <a href="www.codewithelo.com/papers">Medium</a> <br>
+    📄 Would you like to know my experiences ? <a href="www.codewithelo.com/experience"> My Journey</a>
+  </p>
 
+  <img class="cat" align="right" src="https://c.tenor.com/gZU3n_9Nv2EAAAAC/tenor.gif" style="max-width: 200px; height: auto; margin-left: 20px; border-radius: 90px ">
+</div>
 
-#####
----
+<!--
+
 
 ## 📈 GitHub Stats
 
@@ -119,3 +129,7 @@
 ---
 ## <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/elOliveira"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elOliveira" /></a></p><br><br>
+
+
+
+-->
