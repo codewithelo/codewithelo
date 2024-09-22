@@ -49,13 +49,13 @@
 <h2 align="right">🛠️ My Tools</h2>
 
 <div align="left">
-<h3>📊 Big Data</h3>
+<h3>Big Data 📊</h3>
 
 ![PySpark](https://img.shields.io/badge/-PySpark-FF5733?style=flat-square&logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 <div align="right">
-  <h3> Data Mining ⛏️</h3>
+  <h3> ⛏️ Data Mining</h3>
 
   ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
   ![Scrapy](https://img.shields.io/badge/-Scrapy-557C94?style=flat-square&logo=scrapy&logoColor=white)
@@ -75,7 +75,7 @@
 </div>
 
 <div align="right">
-  <h3>MLOps 🤖</h3>
+  <h3>🤖 MLOps</h3>
 
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
   ![MLFlow](https://img.shields.io/badge/-MLFlow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
@@ -93,7 +93,7 @@
 
 
 <div align="right">
-  <h3>Machine Learning</h3>
+  <h3>📖 Machine Learning</h3>
 
   ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -113,28 +113,28 @@
 </div>
 
 <div align="right">
-  <h3>BI (Business Intelligence) 📊📈</h3>
+  <h3>📈 BI (Business Intelligence)</h3>
 
   ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
   ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 </div>
 
 <div align="left">
-  <h3>☁️ Cloud</h3>
+  <h3>Cloud ☁️</h3>
 
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
   ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 </div>
 
 <div align="right">
-  <h3>ETL (Extract, Transform, Load) 🔄</h3>
+  <h3>🔄 ETL (Extract, Transform, Load)</h3>
 
   ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
   ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 </div>
 
 <div align="left">
-  <h3>⏩ ELT (Extract, Load, Transform)</h3>
+  <h3>ELT (Extract, Load, Transform) ⏩</h3>
 
   ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
   ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -142,14 +142,14 @@
 </div>
 
 <div align="right">
-  <h3>Versioning 📂</h3>
+  <h3>📂 Versioning</h3>
 
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![DevOps (Azure)](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 </div>
 
 <div align="left">
-  <h3>📡 Monitoring</h3>
+  <h3>Monitoring 📡</h3>
 
   ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
   ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
