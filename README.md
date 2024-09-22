@@ -1,8 +1,8 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=%F0%9F%96%96%F0%9F%8F%BE%F0%9F%A4%96+What%27s+up%2C+human%3F+Elias+here+%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=%F0%9F%96%96%F0%9F%8F%BE%F0%9F%A4%96+What%27s+up%2C+human%3F+ELO+here+%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB"/>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=eloliveira&label=Profile%20views&color=0e75b6&style=flat" alt="eloliveira"/>
+<img align="left" src="https://komarev.com/ghpvc/?username=codewithelo&label=Profile%20views&color=0e75b6&style=flat" alt="codewithelo"/>
 
 
 </h1>
@@ -41,9 +41,9 @@
 
 <h2 align="left">📈 GitHub Stats</h2>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elOliveira&" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithelo&" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elOliveira&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithelo&show_icons=true&theme=radical)
 
 
 <h2 align="right">🛠️ My Tools</h2>
@@ -157,4 +157,4 @@
 </div>
 
 ## <h3 align="RIGHT">❤️ Help feed my pets 😾🐢🐈🐶🐈‍⬛🐢 and my healthy addiction to caffeine ☕ </h3>
-<p><a href="https://buymeacoffee.com/codewithelo"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elOliveira" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/codewithelo"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codewithelo" /></a></p><br><br>
