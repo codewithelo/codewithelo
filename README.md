@@ -45,6 +45,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithelo&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithelo&layout=compact&theme=radical)](https://github.com/seu-usuario/github-readme-stats)
+
 
 <h2 align="right">🛠️ My Tools</h2>
 
