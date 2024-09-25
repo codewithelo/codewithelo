@@ -1,6 +1,8 @@
 
+
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=%F0%9F%96%96%F0%9F%8F%BE%F0%9F%A4%96+What%27s+up%2C+human%3F+ELO+here+%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&multiline=true&color=E31C79&width=435&lines=%F0%9F%96%96%F0%9F%8F%BE%F0%9F%A4%96+What%27s+up%2C+human%3F+ELO+here+%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB"/>
 
 <img align="left" src="https://komarev.com/ghpvc/?username=codewithelo&label=Profile%20views&color=0e75b6&style=flat" alt="codewithelo"/>
 
