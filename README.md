@@ -17,7 +17,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <p style="flex: 1; text-align: left;">
-    🔭 I’m currently working at  <a href="https://dnc.bi">dnc.bi</a> <br>
+    🔭 I’m currently working at  <a href="https://nexis.bi">nexis.bi</a> <br>
     👨‍💻 All of my projects are available on my <a href="www.codewithelo.com/projects">Website</a> <br>
     🌱 I’m learning about these <a href="https://www.codewithelo.com/journey">Topics</a> <br>
     📝 I regularly write articles on <a href="https://www.codewithelo.com/papers">Medium</a> <br>
